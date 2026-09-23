@@ -1,0 +1,14 @@
+# Lingkungan Virtual (Virtual Environments)
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File Pengaturan VS Code Pribadi
+.vscode/
